@@ -1,0 +1,6 @@
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\bin\x64\Release\AMSICheck.exe.config
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\bin\x64\Release\AMSICheck.exe
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\bin\x64\Release\AMSICheck.pdb
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\obj\x64\Release\AMSICheck.csproj.CoreCompileInputs.cache
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\obj\x64\Release\AMSICheck.exe
+C:\Projects\Project_AMSICheck\AMSICheck\AMSICheck\obj\x64\Release\AMSICheck.pdb
